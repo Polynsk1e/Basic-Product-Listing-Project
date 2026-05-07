@@ -1,4 +1,3 @@
-// Basketball shoe products
 const products = [
   {
     id:1, 
